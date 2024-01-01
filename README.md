@@ -4,3 +4,7 @@ Well I added something as well!
 
 ## Subheader
 Watching the tutorial on Youtube.
+
+## Local Dev
+
+1. Open Index.html in your browser.
